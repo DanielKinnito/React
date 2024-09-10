@@ -43,8 +43,12 @@ This project is a simple task list application that allows users to add, remove,
    - Enter a task name in the input field and click the "Remove Task by Name" button to remove a specific task by its name.
    - Click on a task in the list to remove it.
 
-## Example
+## Example Screenshots
 
 Here is an example of how the application looks:
 
-![Task List Example](example.png)
+| Adding Tasks | Removing Tasks |
+|--------------|----------------|
+|![Taks Added](https://github.com/user-attachments/assets/cacafede-241d-4ad3-8533-7b4c4b2f54b3)|![After Remove](https://github.com/user-attachments/assets/2d86d615-e68b-49d0-9d00-05b696350d23)|
+
+
